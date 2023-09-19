@@ -1,1 +1,2 @@
 # cit262
+This is my README file for CIT 262. In this repository I will include any projets and homework that will be completed for this course. I will try to update it regularly to include the projects I have worked on. 
